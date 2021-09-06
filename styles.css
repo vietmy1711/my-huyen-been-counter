@@ -3,3 +3,18 @@ body {
   font-size: 48px;
   align-items: center;
 }
+
+img {
+  width: 100px;
+  height: 100px;
+  margin-top: 16px;
+}
+
+#outer {
+  width: 100%;
+  text-align: center;
+}
+
+#inner {
+  display: inline-block;
+}
